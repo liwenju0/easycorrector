@@ -1,7 +1,8 @@
-kenlm==0.0.0
-torch==1.7.1
-transformers==4.3.2
-zhon==1.1.5
-numpy==1.19.0
 jieba==0.42.1
+zhon==1.1.5
+kenlm==0.0.0
 OpenCC==1.1.2
+numpy==1.19.5
+chinesebert==0.0.3
+transformers==4.8.2
+torch==1.7.1
